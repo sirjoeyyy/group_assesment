@@ -46,7 +46,7 @@ CREATE TABLE students (
 Insert Sample Data: 
 INSERT INTO students (name, age, gender, course)
                     VALUES
-                        ('Kutloano', 21, 'Male', 'Science'),
+                        ('Kutloano', 21, 'Male', 'Geography'),
                         ('Asamkele', 22, 'Male', 'History');
 
 
